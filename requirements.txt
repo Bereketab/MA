@@ -1,0 +1,13 @@
+Django==5.2
+djangorestframework==3.16.0
+django-channels==0.7.0
+channels-redis==4.2.1
+celery==5.5.2
+redis==6.0.0
+rasterio==1.4.3
+geopandas==1.0.1
+numpy==2.2.5
+scipy==1.15.2
+python-dotenv==1.0.0
+gdal==3.6.4
+spatialite==0.0.3

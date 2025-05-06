@@ -37,6 +37,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+     'django.contrib.gis',  # Geospatial support
+    'rest_framework',      # REST API
+    'channels',            # WebSocket support
+    'data_ingestion',
+    'preprocessing',
+    'analysis',
+    'study_management',
 ]
 
 MIDDLEWARE = [
